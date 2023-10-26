@@ -2,3 +2,5 @@
 Get-ExecutionPolicy | gm
 
 Set-ExecutionPolicy -scope CurrentUser -ExecutionPolicy Unrestricted
+
+Get-ChildItem 
